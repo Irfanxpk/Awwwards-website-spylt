@@ -14,6 +14,7 @@ export default function Preloader({ onFinish }) {
             "/images/flavor3.png",
             "images/",
             "/videos/hero-bg.mp4",
+            "/vedios/pin-video.mp4",
             // add ALL your site images/videos here
         ];
 
