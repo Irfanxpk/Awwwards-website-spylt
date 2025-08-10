@@ -11,14 +11,14 @@ import NutritionSection from "./sections/NutritionSection";
 import BenefitSection from "./sections/BenefitSection";
 import TestimonialSection from "./sections/TestimonialSection";
 import FooterSection from "./sections/FooterSection";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
 
 const App = () => {
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
+  useGSAP(() => {
     if (!loading)
     {
       // Enable scrolling again after preloader
