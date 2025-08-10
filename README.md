@@ -1,12 +1,51 @@
-# React + Vite
+# Awwwards Website Clone – Spylt.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **clone of the award-winning Spylt.com website** from Awwwards, created purely for **learning advanced web animations** and **showcasing creative UI/UX design** skills.  
+It is **not intended for commercial use** — only for educational and portfolio purposes.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🔗 **[View the Live Site](https://awwwards-website-spylt.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/40aedc13-b05b-4b13-8e26-9b3fbe0c808c" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+- **Frontend Framework:** React.js (Vite)
+- **Styling:** Tailwind CSS
+- **Animations:** GSAP & ScrollTrigger
+- **Deployment:** Vercel
+
+---
+
+## 📥 Installation & Usage
+```bash
+# Clone this repository
+git clone https://github.com/Irfanxpk/spylt-clone.git
+
+# Navigate into the folder
+cd spylt-clone
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+```
+⚠️ **Disclaimer**  
+This project is for **educational purposes only**.  
+All design credits go to the original creators of [Spylt.com](https://spylt.com).  
+Do **not** use this code for commercial purposes without proper permissions.  
+
+---
+
+✨ **Author**  
+**Irfanx Pk**  
+
+📧 **Email:** [let's cook something unique for you brand.](mailto:your-email@example.com)  
+🌐 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/muhammed-irfan-pk/)  
+
