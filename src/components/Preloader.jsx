@@ -9,6 +9,10 @@ export default function Preloader({ onFinish }) {
         const assetUrls = [
             "/images/hero-bg.png",
             "/images/flavor1.png",
+            "/images/hero-bg.png",
+            "/images/flavor2.png",
+            "/images/flavor3.png",
+            "images/",
             "/videos/hero-bg.mp4",
             // add ALL your site images/videos here
         ];
